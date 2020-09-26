@@ -1,2 +1,2 @@
-# quote-generator
-Generate random quotes and tweet them if you feel like it
+# infinte-scroller
+Generate random images from Unsplash API infinitely using basic HTML, CSS and JavaScript
